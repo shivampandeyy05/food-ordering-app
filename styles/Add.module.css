@@ -1,4 +1,5 @@
 .mainAddButton {
+  display: none;
   padding: 10px;
   margin: 20px;
   background-color: #d1411e;
