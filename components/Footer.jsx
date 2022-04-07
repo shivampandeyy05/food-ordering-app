@@ -9,8 +9,7 @@ const Footer = () => {
       </div>
       <div className={styles.item}>
         <div className={styles.card}>
-          <h2 className={styles.motto}>
-            OH YES, WE DID.THE PIZZA HUNT, WELL BAKED SLICE OF PIZZA.
+          <h2 className={styles.motto}>OH YES,<span style={{color: "#d1411e"}}> WE DID THE PIZZA HUNT,</span> WELL BAKED SLICE OF PIZZA.
           </h2>
         </div>
         <div className={styles.card}>
@@ -26,12 +25,12 @@ const Footer = () => {
             <br /> (602) 867-1011
           </p> */}
           <p className={styles.text}>
-            1614 E. RT NAGAR #104.
+             #104, RT NAGAR 
             <br /> Bangalore, IN
             <br /> (602) 000-0000
           </p>
           <p className={styles.text}>
-            1614 W. Shivaji park.
+            1614 W, Shivaji park.
             <br /> Mumbai, IN
             <br /> (602) 000-0000
           </p>
