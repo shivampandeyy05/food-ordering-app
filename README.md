@@ -7,4 +7,4 @@
 
 <h1>Home Page.</h1>
 
-<a href="https://ibb.co/ctN9VVP"><img src="https://i.ibb.co/GkVDNNX/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://nonprofitlight.com/va/norfolk/foodbank-of-southeastern-virginia'>foodbank of southeastern virginia</a><br />
+<a href="https://ibb.co/ctN9VVP"><img src="https://i.ibb.co/GkVDNNX/2.png" alt="2" border="0"></a>
